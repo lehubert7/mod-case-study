@@ -1,0 +1,4 @@
+UI: https://github.com/lehubert7/mentor-on-demand-ui.git
+
+API + JPA + In-memory H2: 
+https://github.com/lehubert7/mentor-on-demand-api.git

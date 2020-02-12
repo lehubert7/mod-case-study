@@ -1,0 +1,12 @@
+.tabs-container {
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+input, button {
+  margin-top: 5px;
+}
+
+.usertype-element {
+  max-width: 250px;
+}
